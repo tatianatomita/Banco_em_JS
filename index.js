@@ -14,3 +14,4 @@ let valor = 200;
 contaCorrente1.transferir(valor, contaCorrente2);
 console.log(contaCorrente2);
 console.log(contaCorrente1);
+console.log("total de contas: " + ContaCorrente.numeroDeContas);
